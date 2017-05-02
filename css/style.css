@@ -1,0 +1,17 @@
+html{
+	font-size: 12px;
+	font-family: Arial;
+	line-height: 24px;
+}
+a{
+	color: #727272;
+	text-decoration: none;
+}
+.menu{
+	font-size: 14px;
+	color: #b9f605;
+	font-weight: bold;
+}
+.special{
+	color: #ffffff;
+}
